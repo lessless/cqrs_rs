@@ -1,0 +1,8 @@
+[package]
+name = "cqrs_es"
+version = "0.1.0"
+authors = ["Yevhenii Kurtov <yevhenii.kurtov@derivco.se>"]
+edition = "2018"
+
+[dependencies]
+actix = "0.8"
